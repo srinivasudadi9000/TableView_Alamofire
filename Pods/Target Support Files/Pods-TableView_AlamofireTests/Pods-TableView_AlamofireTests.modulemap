@@ -1,0 +1,6 @@
+framework module Pods_TableView_AlamofireTests {
+  umbrella header "Pods-TableView_AlamofireTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
